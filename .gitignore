@@ -24,6 +24,16 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+*.pyc
+*.pyo
+.DS*
+.pylint_rc
+/.idea
+/.project
+/.pydevproject
+/.settings
+Thumbs.db
+*~
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
